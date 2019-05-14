@@ -1,5 +1,6 @@
 name="Voidborn"
 path="mod/voidborn"
+picture="voidborn.png"
 tags={
 	"Leaders"
 	"Species"
