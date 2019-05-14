@@ -1,5 +1,5 @@
-name="Voidborns"
-path="mod/voidborns"
+name="Voidborn"
+path="mod/voidborn"
 tags={
 	"Leaders"
 	"Species"
