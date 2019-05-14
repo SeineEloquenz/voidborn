@@ -3,7 +3,6 @@ thepallid_system = {
 	name = "The Maw of Darkness"
 	
 	class = "sc_black_hole"
-	asteroids_distance = 60
 	
 	usage = custom_empire
 	
@@ -52,20 +51,16 @@ thepallid_system = {
 		
 		moon = {
 			name = "Umbra"
-			class = "pc_arid"
+			class = "pc_alpine"
 			orbit_distance = 7
 			orbit_angle = 45
 			size = 16
 			starting_planet = yes
 			has_ring = no
-			tile_blockers = none
 			modifiers = none
 			
 			init_effect = {
 				prevent_anomaly = yes
-			}
-			init_effect = {
-				generate_start_buildings_and_blockers = yes
 			}
 		}	
 	} 

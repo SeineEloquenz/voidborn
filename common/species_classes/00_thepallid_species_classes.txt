@@ -19,6 +19,6 @@ CORRUPTED = {
         "human_parasite"
 	}
 	
-	graphical_culture = humanoid_01
+	graphical_culture = infested_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 }

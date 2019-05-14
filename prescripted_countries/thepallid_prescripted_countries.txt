@@ -23,11 +23,11 @@
 	government="gov_holy_tribunal"
 	advisor_voice_type="l_spiritualist"
 	planet_name="Umbra"
-	planet_class="pc_arid"
+	planet_class="pc_alpine"
 	system_name="The Maw of Darkness"
 	initializer="thepallid_system"
 	graphical_culture="arthropoid_01"
-	city_graphical_culture="arthropoid_01"
+	city_graphical_culture="infested_01"
 	empire_flag={
 		icon={
 			category="domination"
@@ -91,11 +91,11 @@
 	government="gov_devouring_swarm"
 	advisor_voice_type="l_hivemind"
 	planet_name="Umbra"
-	planet_class="pc_arid"
+	planet_class="pc_alpine"
 	system_name="The Maw of Darkness"
 	initializer="thepallid_system"
 	graphical_culture="fungoid_01"
-	city_graphical_culture="fungoid_01"
+	city_graphical_culture="infested_01"
 	empire_flag={
 		icon={
 			category="spherical"
@@ -124,7 +124,7 @@
 	}
 	spawn_as_fallen=no
 	ignore_portrait_duplication=no
-	room="personality_evangelizing_zealots_room"
+	room="infested_room"
 	spawn_enabled=no
 	ethic="ethic_gestalt_consciousness"
 	civics={
@@ -168,11 +168,11 @@
 	government="gov_theocratic_monarchy"
 	advisor_voice_type="l_hivemind"
 	planet_name="Umbra"
-	planet_class="pc_arid"
+	planet_class="pc_alpine"
 	system_name="The Maw of Darkness"
 	initializer="thepallid_system"
 	graphical_culture="arthropoid_01"
-	city_graphical_culture="arthropoid_01"
+	city_graphical_culture="infested_01"
 	empire_flag={
 		icon={
 			category="zoological"
