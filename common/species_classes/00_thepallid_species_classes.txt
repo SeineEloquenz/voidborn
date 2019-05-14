@@ -9,12 +9,14 @@ CORRUPTED = {
 	portraits = {
 		"human_dark"
 		"octop_dark"
+        "human_parasite"
 	}
 
 	# These should not be used for randomly generated species
 	non_randomized_portraits = {
 		"human_dark"
 		"octop_dark"
+        "human_parasite"
 	}
 	
 	graphical_culture = humanoid_01
