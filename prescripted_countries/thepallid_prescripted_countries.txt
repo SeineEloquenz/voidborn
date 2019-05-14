@@ -1,6 +1,6 @@
-"The Maw of Darkness"
+"Pallid Tribunal"
 ={
-	key="The Maw of Darkness"
+	key="Pallid Tribunal"
 	ship_prefix=""
 	species={
 		class="CORRUPTED"
@@ -17,7 +17,7 @@
 		trait="trait_decadent"
 		trait="trait_nonadaptive"
 	}
-	name="The Maw of Darkness"
+	name="Pallid Tribunal"
 	adjective="Pallid"
 	authority="auth_oligarchic"
 	government="gov_holy_tribunal"
@@ -66,6 +66,72 @@
 		"civic_post_apocalyptic"
 	}
 }
+"Maw of Darkness"
+={
+	key="Maw of Darkness"
+	ship_prefix=""
+	species={
+		class="CORRUPTED"
+		portrait="human_parasite"
+		name="Pallid"
+		plural="Pallid"
+		adjective="Pallid"
+		species_bio="One of the six arks of the Ulysses Initiative became lost in a dark ocean of nothing, drifting for countless years in a timeless void. Humanity was changed. The mark of an alien race of a forgotten civilization spread quickly. It infected the colonists; changed them. They were no longer human but a pale yet somehow... darker version of humanity. Thousands of years within a dream of infinite darkness pushed their minds over natural boundaries. Then they found them. They found what they searched for so long. They found their dark gods and were subsumed by them. Subsumed into one being. Into a greater being. Into the Pallid."
+		name_list="thepallidnames"
+		trait="trait_hive_mind"
+		trait="trait_rapid_breeders"
+		trait="trait_adaptive"
+		trait="trait_communal"
+		trait="trait_repugnant"
+		trait="trait_fleeting"
+	}
+	name="Maw of Darkness"
+	adjective="Pallid"
+	authority="auth_hive_mind"
+	government="gov_devouring_swarm"
+	advisor_voice_type="l_hivemind"
+	planet_name="Umbra"
+	planet_class="pc_arid"
+	system_name="The Maw of Darkness"
+	initializer="thepallid_system"
+	graphical_culture="fungoid_01"
+	city_graphical_culture="fungoid_01"
+	empire_flag={
+		icon={
+			category="spherical"
+			file="flag_spherical_8.dds"
+		}
+		background={
+			category="backgrounds"
+			file="new_dawn.dds"
+		}
+		colors={
+			"black"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=female
+		name="Zir Xiza"
+		portrait="human_parasite"
+		texture=2
+		hair=0
+		clothes=0
+		ruler_title="The Dark Voice"
+		leader_class="ruler"
+	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_evangelizing_zealots_room"
+	spawn_enabled=no
+	ethic="ethic_gestalt_consciousness"
+	civics={
+		"civic_hive_one_mind"
+		"civic_hive_devouring_swarm"
+	}
+}
 "Dark Ones"
 ={
 	key="Dark Ones"
@@ -95,7 +161,7 @@
 		trait="trait_fleeting"
 		trait="trait_communal"
 	}
-	species_bio="One of the six arks of the Ulysses Initiative became lost in a dark ocean of nothing, drifting for countless years in a timeless void. Humanity was changed. The mark of an alien race of a forgotten civilization spread quickly. It infected the colonists; changed them. They were no longer human but a pale yet somehow... darker version of humanity. More than a hundred years have passed since then. Unfortunately the alien overlords barely remember their past lives and power, thousand of years within a dream of infinite darkness pushed their knowledge to the oblivion... The time to seek the reborn of the a lost empire is now."
+	species_bio="One of the six arks of the Ulysses Initiative became lost in a dark ocean of nothing, drifting for countless years in a timeless void. Humanity was changed. The mark of an alien race of a forgotten civilization spread quickly. It infected the colonists; changed them. They were no longer human but a pale yet somehow... darker version of humanity. More than a hundred years have passed since then. Unfortunately the alien overlords barely remember their past lives and power, thousand of years within a dream of infinite darkness pushed their knowledge to the oblivion... The time to seek the rebirth of a lost empire is now."
 	name="Dark Ones"
 	adjective="Dark"
 	authority="auth_imperial"
