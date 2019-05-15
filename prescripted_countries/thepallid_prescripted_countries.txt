@@ -20,7 +20,7 @@
 	name="Pallid Tribunal"
 	adjective="Pallid"
 	authority="auth_oligarchic"
-	government="gov_holy_tribunal"
+	government="gov_void_covenant"
 	advisor_voice_type="l_spiritualist"
 	planet_name="Umbra"
 	planet_class="pc_alpine"
@@ -51,7 +51,6 @@
 		texture=0
 		hair=0
 		clothes=3
-		ruler_title="The Dark Voice"
 		leader_class="ruler"
 	}
 	spawn_as_fallen=no
@@ -88,7 +87,7 @@
 	name="Maw of Darkness"
 	adjective="Pallid"
 	authority="auth_hive_mind"
-	government="gov_devouring_swarm"
+	government="gov_void_swarm"
 	advisor_voice_type="l_hivemind"
 	planet_name="Umbra"
 	planet_class="pc_alpine"
@@ -119,7 +118,6 @@
 		texture=2
 		hair=0
 		clothes=0
-		ruler_title="The Dark Voice"
 		leader_class="ruler"
 	}
 	spawn_as_fallen=no
@@ -165,7 +163,7 @@
 	name="Dark Ones"
 	adjective="Dark"
 	authority="auth_imperial"
-	government="gov_theocratic_monarchy"
+	government="gov_void_monarchy"
 	advisor_voice_type="l_hivemind"
 	planet_name="Umbra"
 	planet_class="pc_alpine"
@@ -196,8 +194,6 @@
 		texture=1
 		hair=0
 		clothes=3
-		ruler_title="The Dark Voice"
-		heir_title="High Scion"
 	}
 	spawn_as_fallen=no
 	ignore_portrait_duplication=no
