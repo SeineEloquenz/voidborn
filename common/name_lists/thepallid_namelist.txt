@@ -50,23 +50,6 @@ thepallidnames = {
 		research_station = { 
 			Enigma Arbiter Eminence Astute Seeker Inquisitor
 		}
-		wormhole_station = {
-			Prophecy Destiny Virtue Potential Expansion Seeder Harvest 
-			Foundation Scion Progeny Obligation Purpose Provider Purity			
-		}
-		terraform_station = {
-			Prophecy Destiny Virtue Potential Expansion Seeder Harvest 
-			Foundation Scion Progeny Obligation Purpose Provider Purity
-		}
-		observation_station = {
-			Enigma Arbiter Eminence Astute Seeker Inquisitor
-		}
-		outpost_station = {
-			random_names = {
-				Watch Vigilance Influence Assertion Demarcation Division
-			}
-			sequential_name = "%R% Bastion"
-		}
 		
 		transport = {
 			sequential_name = "%R% Assault Ark"
