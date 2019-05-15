@@ -1,7 +1,7 @@
 ﻿l_german:
 
- CORRUPTED:0 "Void Corrupted"
+ CORRUPTED:0 "Leerenkorrumpiert"
  name_list_thepallidnames:0 "Pallid"
  thepallid_system_NAME:0 "Umbra"
- thepallid_system_DESC:0 "Home System of the Dark Ones, a black hole surrounded by planets...\n\n$system_initializer_DESC$"
+ thepallid_system_DESC:0 "Heimatsystem der Dunklen, ein schwarzes Loch umgeben von Planeten...\n\n$system_initializer_DESC$"
  
