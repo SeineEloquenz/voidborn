@@ -6,10 +6,12 @@ room_selector = {
 	#will run with a limited country scope. species and government is set but the country does not actually exist
 	game_setup = {	
 		"infested_room" =				{ is_species_class = CORRUPTED }
+		"pallid_room" =				{ is_species_class = CORRUPTED }
 	}
 
 	#leader scope
 	ruler = {
 		"infested_room" =				{ exists = owner owner = { is_species_class = CORRUPTED } }
+		"pallid_room" =				{ exists = owner owner = { is_species_class = CORRUPTED } }
 	}
 }

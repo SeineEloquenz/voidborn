@@ -56,7 +56,7 @@
 	}
 	spawn_as_fallen=no
 	ignore_portrait_duplication=no
-	room="personality_evangelizing_zealots_room"
+	room="pallid_room"
 	spawn_enabled=no
 	ethic="ethic_authoritarian"
 	ethic="ethic_xenophobe"
@@ -201,7 +201,7 @@
 	}
 	spawn_as_fallen=no
 	ignore_portrait_duplication=no
-	room="personality_evangelizing_zealots_room"
+	room="pallid_room"
 	spawn_enabled=no
 	ethic="ethic_authoritarian"
 	ethic="ethic_fanatic_spiritualist"
