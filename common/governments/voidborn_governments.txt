@@ -68,6 +68,7 @@ gov_void_monarchy = {
 			has_ethic = ethic_spiritualist
 			has_ethic = ethic_fanatic_spiritualist			
 		}
+        is_species_class = CORRUPTED
 	}
 
 	weight = {
