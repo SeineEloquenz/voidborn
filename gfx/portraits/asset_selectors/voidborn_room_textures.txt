@@ -1,4 +1,4 @@
-room_selector = {
+room_selector_voidborn = {
 	#default = "d_room"	#point to textures that end with "_room.dds" but remove the file ending
 
 	default = "ethic_authoritarian_room"	#point to textures that end with "_room.dds" but remove the file ending
@@ -11,7 +11,13 @@ room_selector = {
 
 	#leader scope
 	ruler = {
-		"infested_room" =				{ exists = owner owner = { is_species_class = CORRUPTED } }
-		"pallid_room" =				{ exists = owner owner = { is_species_class = CORRUPTED } }
+		"infested_room" = {
+            exists = owner
+            owner = { is_species_class = CORRUPTED }
+        }
+		"pallid_room" =	{
+            exists = owner
+            owner = { is_species_class = CORRUPTED }
+        }
 	}
 }
