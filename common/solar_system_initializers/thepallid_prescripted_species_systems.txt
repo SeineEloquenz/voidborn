@@ -43,10 +43,10 @@ thepallid_system = {
   
 	planet = {
 		name = "Ygg'Xaraz"	
-		class = "pc_nuked"
+		class = "pc_relic"
 		orbit_distance = 40
 		orbit_angle = -120
-		size = 20
+		size = 22
 		has_ring = yes
 		
 		moon = {
@@ -54,7 +54,7 @@ thepallid_system = {
 			class = "pc_alpine"
 			orbit_distance = 7
 			orbit_angle = 45
-			size = 16
+			size = 19
 			starting_planet = yes
 			has_ring = no
 			modifiers = none
@@ -70,7 +70,7 @@ thepallid_system = {
 		class = "pc_nuked"
 		orbit_distance = 20
 		orbit_angle = 90
-		size = 10
+		size = 13
 		has_ring = no
   }
   
@@ -79,7 +79,7 @@ thepallid_system = {
 		class= "pc_toxic"
 		orbit_distance = 15
 		orbit_angle = 170
-		size = 13
+		size = 17
 		has_ring = no
   }
   
