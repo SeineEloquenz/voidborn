@@ -1,9 +1,0 @@
-name="Voidborn"
-path="mod/voidborn"
-picture="voidborn.png"
-tags={
-	"Leaders"
-	"Species"
-    "Graphics"
-}
-supported_version="2.3.*"
