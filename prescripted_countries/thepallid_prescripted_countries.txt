@@ -21,6 +21,7 @@
 	adjective="Pallid"
 	authority="auth_oligarchic"
 	government="gov_void_covenant"
+	origin = "origin_post_apocalyptic"
 	advisor_voice_type="l_spiritualist"
 	planet_name="Umbra"
 	planet_class="pc_alpine"
@@ -62,7 +63,7 @@
 	ethic="ethic_spiritualist"
 	civics={
 		"civic_exalted_priesthood"
-		"civic_post_apocalyptic"
+        "civic_corvee_system"
 	}
 }
 "Maw of Darkness"
@@ -88,6 +89,7 @@
 	adjective="Pallid"
 	authority="auth_hive_mind"
 	government="gov_void_swarm"
+	origin = "origin_default"
 	advisor_voice_type="l_hivemind"
 	planet_name="Umbra"
 	planet_class="pc_alpine"
@@ -164,6 +166,7 @@
 	adjective="Dark"
 	authority="auth_imperial"
 	government="gov_void_monarchy"
+	origin = "origin_default"
 	advisor_voice_type="l_hivemind"
 	planet_name="Umbra"
 	planet_class="pc_alpine"

@@ -6,5 +6,5 @@ tags={
 	"Species"
 	"Graphics"
 }
-supported_version="2.5.*"
+supported_version="2.6.*"
 remote_file_id="1741456677"
