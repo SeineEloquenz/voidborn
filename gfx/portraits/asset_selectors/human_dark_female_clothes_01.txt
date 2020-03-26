@@ -48,10 +48,10 @@ human_dark_female_clothes_01 = {
         ### monarchy
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_despotic_empire } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_despotic_hegemony } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_totalitarian_regime } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_star_empire } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_martial_empire } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_war_council } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_totalitarian_regime } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_star_empire } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_martial_empire } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_war_council } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_assembly_of_clans } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_feudal_empire } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_2.dds" = { owner = { has_government = gov_bandit_kingdom } }
@@ -60,7 +60,7 @@ human_dark_female_clothes_01 = {
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_military_dictatorship } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_military_junta } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_military_commissariat } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler.dds" = { owner = { has_government = gov_martial_dictatorship } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_martial_dictatorship } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { owner = { has_government = gov_citizen_stratocracy } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler.dds" = { owner = { has_government = gov_purity_order } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler.dds" = { owner = { has_government = gov_purification_committee } }
