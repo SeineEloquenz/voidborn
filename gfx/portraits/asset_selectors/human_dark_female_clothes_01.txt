@@ -37,7 +37,7 @@ human_dark_female_clothes_01 = {
         "gfx/models/portraits/thepallid/human/human_dark_female_clothes_scientist_2.dds" = { leader_class = scientist }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_general.dds" = { leader_class = general }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_admiral.dds" = { leader_class = admiral }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_governer.dds" = { leader_class = governor }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_authoritarian.dds" = { leader_class = governor }
 	}
 
 	#leader scope 

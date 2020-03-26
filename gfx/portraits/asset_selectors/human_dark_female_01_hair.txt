@@ -33,6 +33,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}	
 	}
@@ -60,6 +61,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}		
 		
@@ -80,6 +82,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}	
 		
@@ -100,6 +103,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}		
 		
@@ -120,6 +124,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}
 	}
@@ -155,6 +160,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}		
 		
@@ -183,6 +189,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}		
 		
@@ -234,6 +241,7 @@ human_dark_female_hair_01 = {
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_12.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_13.dds"
                 "gfx/models/portraits/thepallid/human/human_dark_female_hair_14.dds"
+                "gfx/models/portraits/thepallid/human/human_dark_female_hair_15.dds"
 			}
 		}
 	}
