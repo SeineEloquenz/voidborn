@@ -74,7 +74,7 @@ human_dark_female_clothes_01 = {
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_egalitarian.dds" = { owner = { has_government = gov_citizen_republic } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_1.dds" = { owner = { has_government = gov_irenic_monarchy } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_1.dds" = { owner = { has_government = gov_irenic_dictatorship } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_1.dds" = { owner = { has_government = gov_irenic_bureacracy } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_1.dds" = { owner = { has_government = gov_irenic_bureaucracy } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_1.dds" = { owner = { has_government = gov_celestial_empire } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_egalitarian.dds" = { owner = { has_government = gov_moral_democracy } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_egalitarian.dds" = { owner = { has_government = gov_direct_democracy } }

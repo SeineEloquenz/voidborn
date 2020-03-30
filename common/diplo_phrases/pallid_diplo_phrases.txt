@@ -305,8 +305,6 @@ action_insult = {
 					NOT = { is_subspecies = ROOT } }
 			}
 		}
-	} #propose
-	propose = {
 		02_INSULT_PROPOSE_PALLID = {
 			weight = { weight = 20 }
 			trigger = {
@@ -317,8 +315,6 @@ action_insult = {
 					NOT = { is_subspecies = ROOT } }
 			}
 		}
-	} #propose
-	propose = {
 		03_INSULT_PROPOSE_PALLID = {
 			weight = { weight = 20 }
 			trigger = {
@@ -329,8 +325,6 @@ action_insult = {
 					NOT = { is_subspecies = ROOT } }
 			}
 		}
-	} #propose
-	propose = {
 		04_INSULT_PROPOSE_PALLID = {
 			weight = { weight = 20 }
 			trigger = {
@@ -341,8 +335,6 @@ action_insult = {
 					NOT = { is_subspecies = ROOT } }
 			}
 		}
-	} #propose
-	propose = {
 		05_INSULT_PROPOSE_PALLID = {
 			weight = { weight = 20 }
 			trigger = {
@@ -353,8 +345,6 @@ action_insult = {
 					NOT = { is_subspecies = ROOT } }
 			}
 		}
-	} #propose
-	propose = {
 		06_INSULT_PROPOSE_PALLID = {
 			weight = { weight = 20 }
 			trigger = {
@@ -365,7 +355,7 @@ action_insult = {
 					NOT = { is_subspecies = ROOT } }
 			}
 		}
-	} #propose
+	}
 
 	accept = {
 		01_INSULT_ACCEPT_PALLID = {

@@ -55,7 +55,7 @@ pallid = {
 
 	advanced_start_chance = 90
 
-	weapon_preferences = weapon_type_laser
+	weapon_preferences = weapon_type_energy
 	armor_ratio = 0.7
 	shields_ratio = 0.6
 
