@@ -112,10 +112,6 @@ thepallidnames = {
 			sequential_name = "%R% Relentless Legion"
 		}
 		
-		android_army = {
-			sequential_name = "%R% Tenacious Legion"
-		}
-		
 		psionic_army = { 
 			random_names = { 
 				"Shadow Legion" "Ghost Legion" "Wraith Legion" "Specter Legion" "Phantom Legion" "Skull Legion" "Banshee Legion"
