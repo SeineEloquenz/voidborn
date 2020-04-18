@@ -356,7 +356,9 @@ action_insult = {
 			}
 		}
 	}
+}
 
+action_insult = {
 	accept = {
 		01_INSULT_ACCEPT_PALLID = {
 			weight = { weight = 20 }
