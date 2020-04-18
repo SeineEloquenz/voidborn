@@ -83,15 +83,15 @@ human_dark_female_clothes_01 = {
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_1.dds" = { owner = { has_government = gov_elective_monarchy } }
 		
         #spiritualists
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_theocratic_monarchy } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_4.dds" = { owner = { has_government = gov_theocratic_monarchy } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_theocratic_dictatorship } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_theocratic_oligarchy } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_theocratic_republic } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_divine_empire } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_4.dds" = { owner = { has_government = gov_divine_empire } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_holy_tribunal } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_void_monarchy } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_void_covenant } }
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_void_swarm } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_4.dds" = { owner = { has_government = gov_void_monarchy } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_4.dds" = { owner = { has_government = gov_void_covenant } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_4.dds" = { owner = { has_government = gov_void_swarm } }
         
         #technocrats
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_scientist_1.dds" = { owner = { has_government = gov_illuminated_autocracy } }
