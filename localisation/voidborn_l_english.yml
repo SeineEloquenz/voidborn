@@ -27,6 +27,8 @@
  gov_void_swarm_desc:0 "The Abyss, the Darkness, the Void... All these mean the same for this empire. One mind to consume the galaxy and bring back the void it emerged from."
  gov_void_monarchy:0 "Dark Empire"
  gov_void_monarchy_desc:0 "This government is lead by the Voice of the Dark, a Monarch worshipped as a God. There is no difference between religion and state, the Voices' words are divine law. The Voice knows best and the galaxy will succumb."
+ gov_void_dictatorship:0 "Dark Tribunal"
+ gov_void_dictatorship_desc:0 "This government is lead by a council of High-Priests electing the Voice of the Dark out of their own, a Monarch worshipped as a God. There is no difference between religion and state, the Voices' words are divine law. The Voice knows best and the galaxy will succumb."
  PAL_VOICE:0 "The Dark Voice"
  PAL_ARCHPROPHET:0 "Archprophet"
  PAL_ARCHPROPHETESS:0 "Archprophetess"

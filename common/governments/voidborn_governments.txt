@@ -76,6 +76,31 @@ gov_void_monarchy = {
 	}
 }
 
+# Void Dictatorship
+gov_void_dictatorship = {
+	ruler_title = PAL_VOICE
+	ruler_title_female = PAL_VOICE
+	heir_title = PAL_ARCHPROPHET
+	heir_title_female = PAL_ARCHPROPHETESS
+
+	use_regnal_names = no
+	dynastic_last_names = no
+
+	possible = {
+		has_authority = auth_imperial
+		has_valid_civic = civic_exalted_priesthood
+		OR = {
+			has_ethic = ethic_spiritualist
+			has_ethic = ethic_fanatic_spiritualist			
+		}
+        is_species_class = CORRUPTED
+	}
+
+	weight = {
+		base = 1000000
+	}
+}
+
 # Hive Mind
 gov_void_swarm = {
 	ruler_title = PAL_VOICE
