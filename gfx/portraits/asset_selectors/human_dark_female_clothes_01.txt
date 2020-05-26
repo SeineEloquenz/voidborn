@@ -106,7 +106,7 @@ human_dark_female_clothes_01 = {
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_scientist_2.dds" = { owner = { has_government = gov_technocratic_dictatorship } }
         
         #megacorps
-		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_mega_church } }
+		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_ruler_3.dds" = { owner = { has_government = gov_megachurch } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_scientist_1.dds" = { owner = { has_government = gov_megacorporation } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_scientist_2.dds" = { owner = { has_government = gov_megacorporation } }
 		"gfx/models/portraits/thepallid/human/human_dark_female_clothes_egalitarian.dds" = { owner = { has_government = gov_trade_league } }

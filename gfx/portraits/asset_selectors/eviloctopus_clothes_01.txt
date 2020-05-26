@@ -46,7 +46,6 @@ eviloctopus_clothes_01 = {
 		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_irenic_monarchy } }
 		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_despotic_empire } }
 		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_star_empire } }
-		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_transcendent_republic } }
 		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_direct_democracy } }
 		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_moral_democracy } }
 		"gfx/models/portraits/thepallid/eviloctopus/eviloctopus_outfit_ruler.dds" = { owner = { has_government = gov_representative_democracy } }
