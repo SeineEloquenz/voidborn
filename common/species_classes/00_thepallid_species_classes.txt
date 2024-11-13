@@ -6,19 +6,6 @@ CORRUPTED = {
 
 	gender = no
     
-	portraits = {
-		"human_dark"
-		"octop_dark"
-        "human_parasite"
-	}
-
-	# These should not be used for randomly generated species
-	non_randomized_portraits = {
-		"human_dark"
-		"octop_dark"
-        "human_parasite"
-	}
-	
 	graphical_culture = infested_01
 	move_pop_sound_effect = "moving_pop_confirmation"
 }

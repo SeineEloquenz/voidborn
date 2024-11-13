@@ -5,6 +5,6 @@ tags={
 	"Species"
 	"Graphics"
 }
-supported_version="3.6.*"
+supported_version="v3.14.*"
 path="/home/alexa/.local/share/Paradox Interactive/Stellaris/mod/voidborn"
 remote_file_id="1741456677"
